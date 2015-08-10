@@ -1,0 +1,4 @@
+package: testscenarios
+script:
+  - conda build .
+build_targets: conda
